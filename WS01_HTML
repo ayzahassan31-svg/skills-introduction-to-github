@@ -4,8 +4,47 @@
         <title>My First HTML Page</title>
     </head>
     <body>
-        <h1>Welcome to my Page</h1>
-        <p>This is a paragraph.</p>
-        <img src="path/to/image.jpg" alt="Description of image">
+        <h1>Ayza Choudhry</h1>
+        <p>I am a business student specializing in cybersecurity at Laurea University of Applied Sciences, holding a Vocational Qualification in Business from OSAO. Based in Oulu, Finland, I have practical experience across retail sales, digital marketing, and library administration. Passionate about system security and service design, I aim to combine my business acumen and technical skills to create seamless, secure digital experiences. </p>
+        <img src="IMG-20250725-WA0088.jpg" alt="Profile Of Ayza">
     </body>
     </html>
+
+<h2>Hobbies</h2>
+    <ol>
+        <li>Cooking & Baking</li>
+        <li>Arts & Crafts</li>
+        <li>Indoor plants</li>
+    </ol>
+    
+    <h2>Hobbies</h2>
+    <ul>
+        <li>Cooking & Baking</li>
+        <li>Arts & Crafts</li>
+        <li>Indoor plants</li>
+    </ul>
+
+<a href="https://www.allrecipes.com/recipe/20931/french-crepes/">Visit Allrecipes</a>
+
+<table>
+    <tr>
+        <th>Category</th>
+        <th>Study Subject / Notebook</th>
+    </tr>
+    <tr>
+        <td>Technology & Cybersecurity</td>
+        <td>Basics of ICT</td>
+    </tr>
+    <tr>
+        <td>Web & Development</td>
+        <td>web design</td>
+    </tr>
+</table>
+
+<form>
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name"><br><br>
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email"><br><br>
+    <input type="submit" value="Submit">
+    </form>
